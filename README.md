@@ -1,22 +1,20 @@
 # **PERFECT NUMBER**
 
-# Information
+## INFORMATION
 
 * **Queries whether a number is a perfect number.**
 
-# Technologies Used
+## TECHNOLOGIES USED
 
 * **JAVA**
 
-# Contents
+## CONTENTS
 
 * The variables **i**, **total** and **number** are defined with int.
 
 * Scanner class created for user to enter numbers.
 
-<br />
-
-# Codes
+## CODES
 
 ```Java
 
@@ -76,13 +74,13 @@
 
 <br />
 
-# LINK
+## LINK
 
 * Click here https://github.com/Fogo9/PerfectNumber.git to access the Github page for this project.
 
 <br />
 
-# LICENSE
+## LICENSE
 
 * This software is licensed By Tuncay Demir under the MIT license.
 
